@@ -1,0 +1,16 @@
+h1{
+    color: cyan;
+    background-color: black;
+}
+h1>span{
+    color: white;
+}
+h2{
+    background-color: rebeccapurple;
+    color: white;
+}
+h3{
+    text-align: right;
+    background-color: lightblue;
+    color: darkblue;
+}    
